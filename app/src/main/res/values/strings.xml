@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SportHome</string>
+    <string name="nauja_programa">Nauja sporto programa</string>
+    <string name="favoritai">Favoritai</string>
+    <string name="patarimai">Sveikos gyvensenos patarimai</string>
+    <string name="progresas">Programų istorija</string>
+    <string name="gains">Sport gains</string>
+    <string name="kojos">Kojos</string>
+    <string name="rankos">Rankos</string>
+    <string name="juosmuo">Juosmuo</string>
+    <string name="aplinka">Pasirinkite raumenų grupę</string>
+    <string name="Duomenys">Kūno duomenys</string>
+    <string name="Intensyvumas">Pasirinkite intensyvumą</string>
+    <string name="Lengvas">Lengvas</string>
+    <string name="Vidutinis">Vidutinis</string>
+    <string name="Sunkus">Sunkus</string>
+    <string name="ugis">Ūgis</string>
+    <string name="svoris">Svoris</string>
+    <string name="kmi">KMI</string>
+    <string name="cm">Cm</string>
+    <string name="kg">Kg</string>
+    <string name="background">https://www.freepik.com/vectors/background Background vector created by starline - www.freepik.com
+        \n https://www.istockphoto.com/vector/step-to-instruction-in-push-up-gm578104104-99362979
+        \n https://www.freepik.com/free-photos-vectors/squat
+        \n https://www.dreamstime.com/woman-doing-abdominal-workout-bicycle-crunch-woman-doing-abdominal-workout-bicycle-crunch-blue-exercise-mat-image118993039
+    </string>
+    <string name="Apie">Apie</string>
+    <string name= "Pratimas">Pratimas</string>
+    <string name= "Pradeti">Pradėti</string>
+    <string name= "Baigti">Baigti</string>
+    <string name= "Skaičiuoti">Skaičiuoti</string>
+    <string name= "Tipas">Tipas</string>
+    <string name= "Data">Data</string>
+    <string name="Sudetingumas">Intensyvumas</string>
+</resources>
